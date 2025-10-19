@@ -17,10 +17,14 @@ Solutions to the exercises of the book "A Course in Cryptography":
 [Chapter 14: Lattice-based Cryptography](Solutions-Chapter-14.pdf)  
 [Chapter 15: Code-based Cryptography](Solutions-Chapter-15.pdf)  
 
-# Exercises (updated in 2025) for chapters 1-12 of the book and solutions:
+# Exercises and solutions (updated in 2025) 
+For chapters 1-12 of the book.
 
-[Updated Exercises](Cryptography-Ex-2025.pdf)
-[Solutions](Cryptography-sol2025-only.pdf)
+[Updated Exercises](Cryptography-Ex-2025.pdf)   
+[Solutions](Cryptography-sol2025-only.pdf)   
 
 # Labs
-[Lab instructions](cry_lab_25.pdf]
+Instructions for three cryptography labs using SageMath and Python.
+
+
+[Lab instructions](cry_lab_25.pdf)   
